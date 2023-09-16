@@ -58,11 +58,11 @@ Make sure you have Visual Studio Code installed on your computer.
 
 The project includes a 'bin' folder that contains pre-built binaries. To run the application using these binaries:
 
-1. Navigate to the 'bin' folder.
+    Navigate to the 'bin' folder.
 
-2. Right-click on the executable file (with a `.exe` extension) and select "Run as administrator."
+    Double-click on the executable file (with a .exe extension). The executable will automatically run with administrator privileges.
 
-3. Follow on-screen instructions to interact with the application.
+    Follow on-screen instructions to interact with the application.
 
 ## Opening as Administrator
 
