@@ -6,7 +6,7 @@ This is the README file for the **DriveFileSearcher** project. The project was d
 
 ### Prerequisites
 
-Make sure you have Microsoft Visual Studio Community 2022 (Version 17.7.4) installed on your computer.
+Make sure you have Microsoft Visual Studio Community 2022 , Visual Studio Code installed on your computer.
 
 ### Installation
 
